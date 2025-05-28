@@ -33,3 +33,11 @@ def hello():
     print("Hello, Iam Alaina!")
 
 hello()
+
+
+- [x] Learn JavaScript basics
+- [x] Build a personal website
+- [ ] Practice coding challenges
+- [ ] Join a developer community
+- [ ] Apply for internships
+
