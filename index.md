@@ -19,3 +19,9 @@ University Name — 2020-2024
 
 
 this is a file created by myself alaina where i added my skills and education.
+
+
+
+### Here's the image added:
+
+![Octocat mascot](https://octodex.github.com/images/yaktocat.png)
