@@ -25,3 +25,11 @@ this is a file created by myself alaina where i added my skills and education.
 ### Here's the image added:
 
 ![Octocat mascot](https://octodex.github.com/images/yaktocat.png)
+
+
+
+```python
+def hello():
+    print("Hello, Iam Alaina!")
+
+hello()
